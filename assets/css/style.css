@@ -7,13 +7,12 @@ body {
 
 h1 {
     font-family: Dancing Script;
-    Color:#0b2c37
+    Color: #0b2c37
 }
 
 h2 {
     font-family: Bebas;
     color: #0b2c37
-
 }
 
 header {
@@ -23,27 +22,41 @@ header {
 }
 
 
-#ben-intro > h1 {
+#ben-intro>h1 {
     text-shadow: 2px 2px black;
     text-align: center;
     color: #0b2c37;
     font-family: "Dancing Script";
-    font-size: 50px;}
+    font-size: 50px;
+}
 
 p {
     font-family: Bebas;
-    color:#0b2c37;
+    color: #0b2c37;
     font-size: xx-large;
     font-weight: 400;
 }
 
-#section-history {
-    display: flex;
-    flex-direction: column;
-    flex
+/*.section-history {
+    display: grid;
+    
+}*/
+
+.section-timeline {
+    display: inline-flex;
+ 
+
 }
 
-#section-history > img {
+.section-timeline > p {
+    font-size: x-large;
+    width: 35%;
+    
+}
+
+.section-image {
     border-radius: 4px;
-        width: 500px;
+    width: 500px;
+    align-self: flex-start;
+
 }
