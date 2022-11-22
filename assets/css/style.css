@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Dancing+Script&family=Lato:wght@300&display=swap');
+
+body {
+    font-family: Lato;
+    font-size: medium;
+}
+
+h1 {
+    font-family: Dancing Script;
+    Color:#0b2c37
+}
+
+h2 {
+    font-family: Bebas;
+    color: #0b2c37
+}
