@@ -13,4 +13,37 @@ h1 {
 h2 {
     font-family: Bebas;
     color: #0b2c37
+
+}
+
+header {
+    font-family: Dancing Script;
+    color: 0b2c37;
+
+}
+
+
+#ben-intro > h1 {
+    text-shadow: 2px 2px black;
+    text-align: center;
+    color: #0b2c37;
+    font-family: "Dancing Script";
+    font-size: 50px;}
+
+p {
+    font-family: Bebas;
+    color:#0b2c37;
+    font-size: xx-large;
+    font-weight: 400;
+}
+
+#section-history {
+    display: flex;
+    flex-direction: column;
+    flex
+}
+
+#section-history > img {
+    border-radius: 4px;
+        width: 500px;
 }
