@@ -65,8 +65,8 @@ p {
 .section-image {
     border-radius: 10px;
     border-bottom: white;
-    width: 500px;
-    align-self: flex-start;
     margin-bottom: 20px;
+    width: 420px;
+    height: auto;
 
 }
