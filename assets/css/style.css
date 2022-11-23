@@ -190,8 +190,29 @@ footer {
 }
 
 .social-networks i {
-    font-size: 160%;
+    font-size: 200%;
     margin: 1%;
-    padding: 5%;
+    padding: 3%;
     color: #fff;
+    
+}
+
+.footer-style li {
+    vertical-align: middle;
+}
+
+.section-video {
+    background-color: #F1F1E6;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    padding-bottom: 200px;
+    padding-top: 5px;
+}
+
+.section-video h2 {
+    color: rgb(146, 22, 22)
+    
 }
