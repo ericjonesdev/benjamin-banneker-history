@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Dancing+Script&family=Lato:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Great+Vibes&family=Roboto+Flex:opsz,wght@8..144,300&display=swap');
 
 * {
     box-sizing: border-box;
@@ -7,66 +7,132 @@
 }
 
 body {
-    font-family: Lato, sans-serif;
+    font-family: 'Roboto Flex', sans-serif;
     font-size: 16px;
-    color: #F1F1E6;
-}
-
-h1 {
-    font-family: Dancing Script, sans-serif;
-    Color: #0b2c37
+    line-height: 1.5;
+    color: #0b2c37
     
 }
 
+
 h2 {
-    font-family: Bebas, sans-serif;
+    font-family: Anton, sans-serif;
     color: #0b2c37
-}
-
-header {
-    font-family: Dancing Script;
-    color: 0b2c37;
 
 }
 
+h1,h2 {
+    margin-bottom: 15px;
+    padding-top: 10px;
+}
 
-#ben-intro>h1 {
-    text-shadow: 2px 2px black;
-    text-align: center;
-    color: #0b2c37;
-    font-family: "Dancing Script";
-    font-size: 50px;
+ul {
+    list-style-type: none;
+}
+
+.container {
+    max-width: 1100px;
+    margin: 0 auto;
+    passing: 0 30px;
+}
+
+.logo {
+    
+    font-size: 280%;
+    color: #f3f5f6;
+    font-family: 'Great Vibes';
+
+}
+
+.navbar a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+    
+}
+
+.navbar a:hover {
+    color: rgb(244, 126, 126);
+}
+
+.navbar .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height:100%;
+
+}
+
+.navbar ul {
+    display: flex;
+}
+
+.navbar ul li {
+    margin-left: 20px;
+}
+
+.header {
+    background-color: #E6F4F1;
 }
 
 p {
     font-family: Bebas;
     color: #0b2c37;
-    font-size: xx-large;
+    font-size: x-large;
     font-weight: 400;
+    margin-top: 10px;
+    padding: 15px;
 }
 
 /*.section-history {
-    display: grid;
+    display: flex;
+    margin-left: 0;
     
 }*/
 
 .section-timeline {
     display: flex;
+    align-items: center;
  
 }
 
-.section-timeline > p {
-    font-size: x-large;
+/*.section-timeline > p {
+    font-size: large;
     width: auto;
-    justify-content: end;
+    align-items: center;
+    padding-top: 5px;
     
-}
+}*/
+
 
 .section-image {
     border-radius: 10px;
     border-bottom: white;
-    margin-bottom: 20px;
+    margin: 20px 0 20px 0;
     width: 420px;
     height: auto;
+    
 
+}
+
+.header img {
+    max-width: 430px;
+    
+}
+
+.navbar {
+    background: #5aa0ef;
+    color: #fff;
+    height: 120px;
+}
+
+.boxes .container {
+    display: flex;
+    justify-content: 	space-between;
+}
+
+.box {
+    flex: 1;
+    background-color: #5aa0ef;
 }
