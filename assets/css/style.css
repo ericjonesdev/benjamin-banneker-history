@@ -139,7 +139,7 @@ p {
 .box {
     flex: 1;
     background-color: #5aa0ef;
-    color: #fff;
+    color: #7d1d1d;
     border-radius: 10px;
     margin: 20px 10px;
     box-shadow: 0 3px 5px rgba(0, 0, 0, 0.6);
@@ -148,7 +148,7 @@ p {
 }
 
 .box p {
-    color: #fff;
+    color: #2f0f0f;
 }
 
 .box h2 {
