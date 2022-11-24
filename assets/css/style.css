@@ -220,8 +220,7 @@ footer {
 /* form section */
 
 .form-container {
-    background-color: var(--dark-green);
-    color: rgb(62, 62, 90);
+    color: #3e3e5a;
     margin: 45px;
     display: flex;
     justify-content: space-between;
@@ -349,7 +348,6 @@ input[type=text] {
     border: 2px;
     border: #7d1d1d;
     border-radius: 10px;
-    margin-left: 20px 0;
     text-align: left;
     padding: 15px 5px;
     
