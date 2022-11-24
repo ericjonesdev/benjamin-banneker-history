@@ -38,7 +38,7 @@ ul {
 
 .logo {
     
-    font-size: 280%;
+    font-size: 150%;
     color: #f3f5f6;
     font-family: 'Great Vibes';
 
@@ -121,7 +121,7 @@ p {
 }
 
 .navbar {
-    background: #5aa0ef;
+    background: #5aa0ef;;
     color: #fff;
     height: 120px;
     position: fixed;
