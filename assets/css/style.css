@@ -39,7 +39,7 @@ ul {
 .logo {
     
     font-size: 150%;
-    color: #f3f5f6;
+    color: #7d1d1d;
     font-family: 'Great Vibes';
 
 }
@@ -50,7 +50,7 @@ ul {
 }
 
 .navbar a {
-    color: #fff;
+    color: #7d1d1d;
     text-decoration: none;
     font-size: 18px;
     font-weight: bold;
@@ -58,7 +58,7 @@ ul {
 }
 
 .navbar a:hover {
-    color: #7d1d1d;
+    color: #ffffff;
 }
 
 .navbar .container {
@@ -122,7 +122,7 @@ p {
 
 .navbar {
     background: #5aa0ef;;
-    color: #fff;
+    color: #7d1d1d;
     height: 120px;
     position: fixed;
     left: 0;
