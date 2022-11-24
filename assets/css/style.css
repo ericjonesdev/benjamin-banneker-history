@@ -44,6 +44,11 @@ ul {
 
 }
 
+/* navbar section */
+.active {
+    border-bottom: 2px solid #7d1d1d;
+}
+
 .navbar a {
     color: #fff;
     text-decoration: none;
@@ -86,11 +91,6 @@ p {
     white-space: normal;
 }
 
-/*.section-history {
-    display: flex;
-    margin-left: 0;
-    
-}*/
 
 .section-timeline {
     display: flex;
@@ -321,14 +321,38 @@ input[type=text] {
 }
 
 /*about us page styling */
-#about-us {
-    background: url(assets/images/designingthecapital.png) no-repeat center center;
-    background-size: cover;
-    background-color: brown;
-    overflow: hidden;
-    margin: 0;
+.about-us {
+
+    background-color: #F1F1E6;
+    margin: 120px 0;
     display: flex;
     justify-content: center;
+    height: 500px;
+    width: 100%;
+}
+
+.our-story {
+    display: flex;
+    flex-direction: row;
+}
+
+.about-us h2 p {
+        text-align: center;
+        
+}
+
+.about-us p {
+    color: #0e0e0e;
+    width: 800px;
+    height: 400px;
+    background-color: #79b2f3;
+    border: 2px;
+    border: #7d1d1d;
+    border-radius: 10px;
+    margin-left: 20px 0;
+    text-align: left;
+    padding: 15px 5px;
+    
 }
 
 
