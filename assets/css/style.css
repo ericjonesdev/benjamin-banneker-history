@@ -302,14 +302,13 @@ input.submit-button {
     font-size: 18px;
     padding: 15px 32px;
     border: 2px;
-    border color: #7D1D26;
+    border-color: #7D1D26;
     border-radius: 10px;
     
 }
 
 input#email {
     margin-bottom: 8px;
-    border-raidus: 4px;
 
 }
 
@@ -420,7 +419,7 @@ input#email {
 /* video media query */
 
 
-  @media  screen and (max-width: 320px);
+  @media  screen and (max-width: 320px){
         .section-timeline .box .section-video {
             align-content: center;
             width: 100%;
