@@ -92,9 +92,27 @@ On mobile devices the form resizes to fit the appropriate area seamlessly.
 <img src="assets/images/Benjamin Bannaker_ contactus.png">
 <img src="assets/images/Benjamin Bannaker_form.png">
 
-# Testing
+# 3. Testing
 
 ## 3.1 HTML Validation 
 
+All documents were validated using the free W3C Markup validation service. A majority of initial errors received pertained to Font Awsome element duplicate statements, received due to styling and re-styling elements and code clean-up errors. 
+
+### Home Page
+<img src="assets/images/Index_html - Nu Html Checker.png">
+
+### About Us Page
+
+<img src="assets/images/About us_html - Nu Html Checker.png">
+
+### Contact Us Page
+
+<img src="assets/images/Contact_html - Nu Html Checker.png">
+
+## 3.2 CSS Validation
+
+To validate the site CSS, the site CSS file was uploaded to the W3C Jigsaw validation service. The first attempt indicated a CSS rule which should have been omitted if not in use. This was corrected to have the second submittal be a success.
+
+<img src="">
 
 
