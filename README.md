@@ -82,3 +82,15 @@ This section, along with the Legendary section was styled to stack, one above th
 
 <img src="assets/images/Benjamin Bannaker_ video.png">
 <img src="assets/images/Benjamin Bannaker_stacking.png">
+
+## 2.6 Contact Us Form Page
+
+The contact us form shared the overal color rule schematic as all other pages of the site, with highlight red colors being used to draw emphasis to the first and last name text input areas. 
+
+On mobile devices the form resizes to fit the appropriate area seamlessly. 
+
+<img src="assets/images/Benjamin Bannaker_ contactus.png">
+<img src="assets/images/Benjamin Bannaker_form.png">
+
+
+
