@@ -52,3 +52,20 @@ The familiar colors red, white and blue were used due to the subject matter and 
 <img src="assets/images/color rule.png">
 
 The rule for color uses was as follows: 60% white tones, 30% blue, and 10% red tones.  This made for an eye-pleasing user experience. 
+ 
+To accomodate for the variying viewport types, media queries were employed for overall responsiveness across platforms. 
+
+# Features
+
+The website was organized into three main pages which are the home, about, and contact page.
+## 2.1 Header & Navbar
+The website was organized into three main pages which are the home, about, and contact page. Internal links were used on the home page to link to the various sections of that page, thereby creating a more efficient user experience. 
+
+<img src="assets/images/Benjamin Bannaker_ Navbar.png">
+
+## 2.2 About Us section
+
+The About us section illustrates to the user the reasons behind the website creation and informs as to the nature of the site owners.
+
+<img src="assets/images/Benjamin Bannaker_ AboutUs.png">
+
