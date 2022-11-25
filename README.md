@@ -39,3 +39,14 @@ The target audience is history buffs, students, teachers, and users who may want
 - As a site owner I want to provide an intuitive learning experience.
 - As a site owner I want to funnel traffic to my subscription list.
 - As a site owner I want to provide a way for users to contact me.
+
+## 1.3 Design
+<hr>
+
+To serve as a historical website, a simplistic but functional design was needed. This combination served two primary purposes. The first purpose, simplicity, was used to maintaine a pleasant look and asthetic to cater to younger users, while having content structures that would appeal to teachers and higher acedmics. 
+
+Where applicable, accessibility and useability regarding color schematics, semantic markup, and overall structure where adhered to. 
+
+The familiar colors red, white and blue were used due to the subject matter and his assistance in designing the American captial. The home decor color "rule" of 60%, 30%, and 10% was applied to the genre of web development, so as not to over-use one color while relying too heavily on another. 
+
+The rule for color uses was as follows: 60% Blue tones, 30% white, and 10% red tones.  This made for an eye-pleasing user experience. 
