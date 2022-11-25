@@ -113,6 +113,6 @@ All documents were validated using the free W3C Markup validation service. A maj
 
 To validate the site CSS, the site CSS file was uploaded to the W3C Jigsaw validation service. The first attempt indicated a CSS rule which should have been omitted if not in use. This was corrected to have the second submittal be a success.
 
-<img src="">
+<img src="assets/images/W3C CSS Validator results for https___ericjonesdev.github.io_benjamin-banneker-history_index.html (C.png">
 
 
