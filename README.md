@@ -76,4 +76,9 @@ The Legendary section is used to illustrate some of the crowning achievements of
 
 ## Additional Information (Video Section)
 
+The last section before the site footer is the video section, which serves as a video media source detailing further information about the site topic. 
+
+This section, along with the Legendary section was styled to stack, one above the other, on smaller devices, principally mobile.
+
 <img src="assets/images/Benjamin Bannaker_ video.png">
+<img src="assets/images/Benjamin Bannaker_stacking.png">
