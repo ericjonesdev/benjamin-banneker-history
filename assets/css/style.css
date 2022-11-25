@@ -418,26 +418,12 @@ input#email {
 }
 
 /* video media query */
-@media screen and (max-width: 640px) {
-    .video-responsive {
-      overflow: hidden;
-      padding-bottom: 56.25%;
-      position: relative;
-      height: 0;
-    }
-    .video-responsive iframe {
-      left: 0;
-      top: 0;
-      height: 100%;
-      width: 100%;
-      position: absolute;
-    }
-  }
 
-  @media  screen and {max-width: 600px;
-        .container {
-            
-            padding: 0 150px
+
+  @media  screen and (max-width: 320px);
+        .section-timeline .box .section-video {
+            align-content: center;
+            width: 100%;
 
         }
     
