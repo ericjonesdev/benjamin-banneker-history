@@ -41,7 +41,7 @@ The target audience is history buffs, students, teachers, and users who may want
 - As a site owner I want to provide a way for users to contact me.
 
 ## 1.3 Design
-<hr>
+
 
 To serve as a historical website, a simplistic but functional design was needed. This combination served two primary purposes. The first purpose, simplicity, was used to maintaine a pleasant look and asthetic to cater to younger users, while having content structures that would appeal to teachers and higher acedmics. 
 
