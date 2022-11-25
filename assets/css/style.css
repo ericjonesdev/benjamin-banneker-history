@@ -14,7 +14,12 @@ body {
     
 }
 
+img {
+    height: auto;
+    width: 100%;
+  }
 
+  
 h2 {
     font-family: Anton, sans-serif;
     color: #7d1d1d

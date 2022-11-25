@@ -115,4 +115,12 @@ To validate the site CSS, the site CSS file was uploaded to the W3C Jigsaw valid
 
 <img src="assets/images/W3C CSS Validator results for https___ericjonesdev.github.io_benjamin-banneker-history_index.html (C.png">
 
+## Acessibility Validation Service
+
+The Wave web accessibility evaluation tool was used to ensure that the site passed the industry-standard accessibility criteria. The majority of initial errors  revolved around non-optimal use of color contrast within the site navbar. The corrective action was to increase the navbar text font size to above 18px, as contrast standards are not as stringent, when taking bigger font into account. 
+
+<img src="assets/images/WAVE Report of Benjamin Bannaker_ Multi-genius.png">
+
+## 3.4 Lighthouse 
+
 
