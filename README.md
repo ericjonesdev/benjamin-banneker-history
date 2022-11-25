@@ -69,3 +69,11 @@ The About us section illustrates to the user the reasons behind the website crea
 
 <img src="assets/images/Benjamin Bannaker_ AboutUs.png">
 
+## 2.3 Legendary section
+
+The Legendary section is used to illustrate some of the crowning achievements of Benjamin Banneker. This section should instill in the mind of the user exactly why this historical personage was so important to American history and, thereby, make plain why the site was created.
+<img src="assets/images/Benjamin Bannaker_ Legendary.png">
+
+## Additional Information (Video Section)
+
+<img src="assets/images/Benjamin Bannaker_ video.png">
