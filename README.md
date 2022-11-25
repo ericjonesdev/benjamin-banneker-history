@@ -18,7 +18,7 @@ The user can get to know a timeline of Banneker's life, along with key points wh
 The target audience is history buffs, students, teachers, and users who may want to learn about key scientifc disciplines such as Astronomy, Mathematics, inventions, and historical architecture. 
 
 ## 1.2 User Stories
-<hr>
+
 
 ### First time users
 
