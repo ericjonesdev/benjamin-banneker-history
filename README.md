@@ -55,7 +55,7 @@ The rule for color uses was as follows: 60% white tones, 30% blue, and 10% red t
  
 To accomodate for the variying viewport types, media queries were employed for overall responsiveness across platforms. 
 
-# Features
+# 2. Features
 
 The website was organized into three main pages which are the home, about, and contact page.
 ## 2.1 Header & Navbar
@@ -91,6 +91,10 @@ On mobile devices the form resizes to fit the appropriate area seamlessly.
 
 <img src="assets/images/Benjamin Bannaker_ contactus.png">
 <img src="assets/images/Benjamin Bannaker_form.png">
+
+# Testing
+
+## 3.1 HTML Validation 
 
 
 
