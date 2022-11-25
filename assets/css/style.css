@@ -380,7 +380,7 @@ input#email {
 
 
 /* general media queries */
-@media screen and (max-width: 800px){
+@media screen and (max-width: 640px){
 .form-container {
     flex-direction: column;
     padding: 7px;
@@ -397,8 +397,10 @@ input#email {
         .boxes .container {
             display: inline-block;
             text-align: center;
+            align-content: center;
         }
 }
+
 
 /* navbar media query */
 @media screen and (max-width: 640px){
@@ -416,7 +418,7 @@ input#email {
 }
 
 /* video media query */
-@media screen and (max-width: 560px) {
+@media screen and (max-width: 640px) {
     .video-responsive {
       overflow: hidden;
       padding-bottom: 56.25%;
@@ -430,4 +432,14 @@ input#email {
       width: 100%;
       position: absolute;
     }
+  }
+
+  @media  screen and {max-width: 600px;
+        .container {
+            
+            padding: 0 150px
+
+        }
+    
+    
   }
