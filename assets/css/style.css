@@ -41,6 +41,7 @@ ul {
     font-size: 150%;
     color: #7d1d1d;
     font-family: 'Great Vibes';
+    margin: 0;
 
 }
 
@@ -57,6 +58,12 @@ ul {
     
 }
 
+.navbar {
+    width: 90%;
+    margin: 0 auto;
+
+}
+
 .navbar a:hover {
     color: #ffffff;
 }
@@ -71,10 +78,11 @@ ul {
 
 .navbar ul {
     display: flex;
+    padding: 0;
 }
 
 .navbar ul li {
-    margin-left: 20px;
+    margin-left: 2em;
 }
 
 .header {
@@ -371,7 +379,7 @@ input#email {
 }
 
 
-/* media queries */
+/* general media queries */
 @media screen and (max-width: 800px){
 .form-container {
     flex-direction: column;
@@ -390,4 +398,19 @@ input#email {
             display: inline-block;
             text-align: center;
         }
+}
+
+/* navbar media query */
+@media screen and (max-width: 640px){
+    .navbar {
+        text-align: center;
+    }
+    .bubble-nav ul {
+        flex-direction: column;
+    }
+    .navbar li {
+        margin: 0.095em 0;
+        line-height: 1rem;
+    }
+
 }
