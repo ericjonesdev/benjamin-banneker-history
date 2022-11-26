@@ -52,6 +52,10 @@ The familiar colors red, white and blue were used due to the subject matter and 
 <img src="assets/images/color rule.png">
 
 The rule for color uses was as follows: 60% white tones, 30% blue, and 10% red tones.  This made for an eye-pleasing user experience. 
+
+Aside from the 10% red color schema, the base color palette (along with slight variations) is as follows in the image below:
+
+<img src="assets/images/ColorSpace - Color Palettes Generator and Color Gradient Tool.png">
  
 To accomodate for the variying viewport types, media queries were employed for overall responsiveness across platforms. 
 
