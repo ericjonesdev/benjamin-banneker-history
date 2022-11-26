@@ -186,8 +186,16 @@ Wikipedia. (2022) Benjamin Banneker. Retrieved 26.11.2022 from the online databa
 
 Whitehousehistory.org. (2022)Benjamin Banneker: The Black Tobacco Farmer Who The Presidents Couldn't Ignore. Retrieved 26.11.2022 from the online database, https://www.whitehousehistory.org/benjamin-banneker
 
+NPS.gov. (2022)Benjamin Banneker and the Boundary Stones of the District of Columbia. Retrieved 26.11.2022 from the online database, https://www.nps.gov/places/sw-9-intermediate-boundary-stone-of-the-district-of-columbia.htm/index.htm
+
 Image copyright:
 This media file is in the public domain in the United States. This applies to U.S. works where the copyright has expired, often because its first publication occurred prior to January 1, 1927, and if not then due to lack of notice or renewal. See this page for further explanation.
 https://en.wikipedia.org/wiki/File:Benjamin_Banneker_Portrait.jpg
 
+## 5.4 Media
 
+The media used in this website:
+
+- Benjamin Banneker Photo (In public domain)
+- Social Media Icons created by <a href="https://fontawesome.com/">FontAwesome</a>
+- Video in <a href="https://ericjonesdev.github.io/benjamin-banneker-history/index.html#video">Video</a> section: Created by <a href="https://www.youtube.com/watch?v=DKnwyVR4P88">Ted-Ed</a>
