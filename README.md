@@ -150,3 +150,14 @@ Some bugs that were discovered and corrected throughout the development:
  | Legendary section headers and paragraph were not centering given the original coding format(s) on smaller viewport sizes. | The temporary fix was to introduce some padding statements that pushed the text to the desired location  |
  | About us page was originally not displaying any paragraph or other element text                                                                                                                          |  Caused by the wrong width and height statements on the containing div. The correct settings were implemented to correct this.                                                                                                        |
 
+# 4 Deployment
+This website was developed using an online version of VS code, via the gitpod/github applications and repositories. The following steps were taken:
+
+    1. Navigate to the Benjamin Banneker githup repository
+    2. Select the settings tab
+    3. Select Pages within the left navigation payne
+    4. Select the deploy from branch (main branch) under source
+    5. Upon succesful completion of the app and refresh of page the link is displayed
+
+
+   You may view the Github repository by clicking <a href="https://github.com/ericjonesdev/benjamin-banneker-history" type="_blank">here</a>.
