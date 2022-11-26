@@ -150,7 +150,7 @@ Some bugs that were discovered and corrected throughout the development:
  | Legendary section headers and paragraph were not centering given the original coding format(s) on smaller viewport sizes. | The temporary fix was to introduce some padding statements that pushed the text to the desired location  |
  | About us page was originally not displaying any paragraph or other element text                                                                                                                          |  Caused by the wrong width and height statements on the containing div. The correct settings were implemented to correct this.                                                                                                        |
 
-# 4 Deployment
+# 4. Deployment
 This website was developed using an online version of VS code, via the gitpod/github applications and repositories. The following steps were taken:
 
     1. Navigate to the Benjamin Banneker githup repository
@@ -160,4 +160,21 @@ This website was developed using an online version of VS code, via the gitpod/gi
     5. Upon succesful completion of the app and refresh of page the link is displayed
 
 
-   You may view the Github repository by clicking <a href="https://github.com/ericjonesdev/benjamin-banneker-history" type="_blank">here</a>.
+   You may view the Github repository by clicking <a href="https://github.com/ericjonesdev/benjamin-banneker-history">here</a>.
+
+   # 5. Credits
+   ## 5.1 Video Section Information
+   The following tutorial and associated repository link was used to refrence the code necessary to render the look and feel of the video, in relation to drop shadow and the manipulation of iframe:
+
+Title - A Better YouTube Embed by Chris Pennington
+https://codepen.io/Coding-in-Public/pen/KKmWweM <br>
+https://youtu.be/khdT1e7jEIE
+
+Using a lazy load method and associated thumbnail image enabled a faster page load time according to the <a href="https://pagespeed.web.de">PageSpeed</a> performance checker. 
+
+## 5.2 Flexbox Tutorial
+
+The following tutorial(s) were used as a reference to position and display elements using flexbox:
+
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
