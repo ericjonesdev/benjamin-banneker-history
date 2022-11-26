@@ -178,3 +178,16 @@ The following tutorial(s) were used as a reference to position and display eleme
 
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
+## 5.3 Historial References
+
+The following references were used for the body of webpage historical writing and main image:
+
+Wikipedia. (2022) Benjamin Banneker. Retrieved 26.11.2022 from the online database, https://en.wikipedia.org/wiki/Benjamin_Banneker
+
+Whitehousehistory.org. (2022)Benjamin Banneker: The Black Tobacco Farmer Who The Presidents Couldn't Ignore. Retrieved 26.11.2022 from the online database, https://www.whitehousehistory.org/benjamin-banneker
+
+image copyright:
+This media file is in the public domain in the United States. This applies to U.S. works where the copyright has expired, often because its first publication occurred prior to January 1, 1927, and if not then due to lack of notice or renewal. See this page for further explanation.
+https://en.wikipedia.org/wiki/File:Benjamin_Banneker_Portrait.jpg
+
+
