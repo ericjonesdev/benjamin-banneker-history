@@ -96,6 +96,17 @@ On mobile devices the form resizes to fit the appropriate area seamlessly.
 <img src="assets/images/Benjamin Bannaker_ contactus.png">
 <img src="assets/images/Benjamin Bannaker_form.png" width="300px">
 
+## 2.7 The Footer Section
+The footer section included links to the relevant social media sites for Benjamin Banneker. The links will open to a new tab to allow easy navigation for the user.
+
+<img src="assets/images/Benjamin Bannaker_ footer.png">
+
+## 2.8 Future development
+Additional features (future)that are desired to be developed and implement are as follows:
+  1. Additional page beautification (form section) and added background images.
+  2. Embedded google maps which show historical family dwellings and any known Benjamin Banneker museum information.
+  3. Interactive Javascript history learning game page.
+
 # 3. Testing
 
 ## 3.1 HTML Validation 
