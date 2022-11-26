@@ -140,3 +140,14 @@ The Lighthouse performance app was used to test the website performance.
 | As a site owner I want to provide an intuitive learning experience.                                | Proving an easy to use layout with clearn markup will allow the user a seamless learning experience.                                               |
 | As a site owner I want to funnel traffic to my subscription list.                                  | Using a referral link within the about us page text, pointing to the sign-up form will funnel the necessary traffic towards the subscription list. |
 | As a site owner I want to provide a way for users to contact me.                                   | The contact us page will be the medium through which site users can contact our team.                                                              |
+
+## 3.6 Bugs and Fixes
+
+Some bugs that were discovered and corrected throughout the development:
+ | Bug                                                                                                                  | Fix                                                                                                |
+ | ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+ | Youtube embedded video thumbnail was not showing up on the live site                                                      | This was caused by an incorrect url schema, which included the original ommission of the http:// heading |
+ | Legendary section headers and paragraph were not centering given the original coding format(s) on smaller viewport sizes. | The temporary fix was to introduce some padding statements that pushed the text to the desired location  |
+ | About us page was originally not displaying any paragraph or other element text                                                                                                                          |  Caused by the wrong width and height statements on the containing div. The correct settings were implemented to correct this.                                                                                                        |
+
+ 
