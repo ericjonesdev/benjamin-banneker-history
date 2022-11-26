@@ -130,5 +130,13 @@ The Lighthouse performance app was used to test the website performance.
 
 ## 3.5 Manual Testing User Stories
 
-| User Story | Testing |
-|:----       |:---|
+|       User Story                                                                                             |                       Testing                                                                                                                             |
+| -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| As a first time user I want an excellent visual experience                                         | Scrolling the home page will illustrate to the user that thought and care was taken in the design.                                                 |
+| As a first time user I want to quickly understand what the site is about.                          | Clicking on the About Us page will inform the user as to the nature of this site.                                                                  |
+| As a first time user I want to also have video and interactive content.                            | Either clicking on the video link in the navbar or scrolling down will show the user the video content.                                            |
+| As a first time user I want the ability to easily navigate the site.                               | Clicking on the navbar links will take the user to internal as well as external page links.                                                        |
+| As a first time user I want to easily distingish this site as a trusted site which is safe to use. | Using the W3School verification code, easily seen on the website will foster trust with the user.                                                  |
+| As a site owner I want to provide an intuitive learning experience.                                | Proving an easy to use layout with clearn markup will allow the user a seamless learning experience.                                               |
+| As a site owner I want to funnel traffic to my subscription list.                                  | Using a referral link within the about us page text, pointing to the sign-up form will funnel the necessary traffic towards the subscription list. |
+| As a site owner I want to provide a way for users to contact me.                                   | The contact us page will be the medium through which site users can contact our team.                                                              |
