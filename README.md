@@ -81,7 +81,7 @@ The last section before the site footer is the video section, which serves as a 
 This section, along with the Legendary section was styled to stack, one above the other, on smaller devices, principally mobile.
 
 <img src="assets/images/Benjamin Bannaker_ video.png">
-<img src="assets/images/Benjamin Bannaker_stacking.png">
+<img src="assets/images/Benjamin Bannaker_stacking.png" width="300px">
 
 ## 2.6 Contact Us Form Page
 
@@ -90,7 +90,7 @@ The contact us form shared the overal color rule schematic as all other pages of
 On mobile devices the form resizes to fit the appropriate area seamlessly. 
 
 <img src="assets/images/Benjamin Bannaker_ contactus.png">
-<img src="assets/images/Benjamin Bannaker_form.png">
+<img src="assets/images/Benjamin Bannaker_form.png" width="300px">
 
 # 3. Testing
 
@@ -150,4 +150,3 @@ Some bugs that were discovered and corrected throughout the development:
  | Legendary section headers and paragraph were not centering given the original coding format(s) on smaller viewport sizes. | The temporary fix was to introduce some padding statements that pushed the text to the desired location  |
  | About us page was originally not displaying any paragraph or other element text                                                                                                                          |  Caused by the wrong width and height statements on the containing div. The correct settings were implemented to correct this.                                                                                                        |
 
- 
