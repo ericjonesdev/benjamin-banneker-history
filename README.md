@@ -123,4 +123,12 @@ The Wave web accessibility evaluation tool was used to ensure that the site pass
 
 ## 3.4 Lighthouse 
 
+The Lighthouse performance app was used to test the website performance.
+<hr>
 
+<img src="assets/images/PageSpeed Insights.png">
+
+## 3.5 Manual Testing User Stories
+
+| User Story | Testing |
+|:----       |:---|
