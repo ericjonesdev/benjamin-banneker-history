@@ -404,9 +404,10 @@ input#email {
             
         }
         .boxes .container {
-            display: inline-block;
+            display: block;
             text-align: center;
             align-content: center;
+            width: 100%;
         }
 }
 
