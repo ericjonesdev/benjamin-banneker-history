@@ -459,4 +459,5 @@ input#email {
     position: absolute;
     width: 100%;
     height: 100%;
+    border: 1em solid rgb(166, 161, 143);
  }
