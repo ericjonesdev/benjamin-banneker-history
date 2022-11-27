@@ -454,7 +454,7 @@ input#email {
     padding-bottom: 56.25%;
     position: relative;
     box-shadow: 5px 10px 10px grey;
-    border: 0.5px solid rgb(166, 161, 143);
+    border: none;
  }
 
  .responsive iframe {
