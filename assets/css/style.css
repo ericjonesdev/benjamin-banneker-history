@@ -8,7 +8,6 @@
 
 body {
     font-family: 'Roboto Flex', sans-serif;
-    font-display: swap;
     font-size: 16px;
     line-height: 1.5;
     color: #0b2c37
@@ -23,7 +22,6 @@ img {
   
 h2 {
     font-family: Anton, sans-serif;
-    font-display: swap;
     color: #7d1d1d
 
 }
@@ -49,7 +47,6 @@ ul {
     font-size: 150%;
     color: #7d1d1d;
     font-family: 'Great Vibes';
-    font-display: swap;
     margin: 0;
 
 }
