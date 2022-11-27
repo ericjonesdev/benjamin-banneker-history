@@ -159,9 +159,10 @@ p {
     margin: 20px 10px;
     box-shadow: 0 3px 5px rgba(0, 0, 0, 0.6);
     padding: 15px 20px;
+    height: min-content;
 
 }
-
+ 
 .box p {
     color: #2f0f0f;
 }
@@ -180,6 +181,10 @@ p {
     }
     .section-timeline img p {
         align-items: center;
+    }
+    .box #legendary {
+        display: block;
+        width: 100%;
     }
    
 }
@@ -386,7 +391,7 @@ input#email {
 
 
 /* general media queries */
-@media screen and (max-width: 640px){
+@media screen and (max-width: 768px){
 .form-container {
     flex-direction: column;
     padding: 7px;
