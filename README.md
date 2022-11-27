@@ -179,11 +179,10 @@ This website was developed using an online version of VS code, via the gitpod/gi
 
    # 5. Credits
    ## 5.1 Video Section Information
-   The following tutorial and associated repository link was used to refrence the code necessary to render the look and feel of the video, in relation to drop shadow and the manipulation of iframe:
+   The following tutorial and associated repository link was used to refrence the code necessary to render the look, positioning and responsiveness of the iframe element:
 
-Title - A Better YouTube Embed by Chris Pennington
-https://codepen.io/Coding-in-Public/pen/KKmWweM <br>
-https://youtu.be/khdT1e7jEIE
+Title - How To Make iframe's Responsive
+https://youtu.be/X4t0JxiBeO0
 
 Using a lazy load method and associated thumbnail image enabled a faster page load time according to the <a href="https://pagespeed.web.de">PageSpeed</a> performance checker. 
 
