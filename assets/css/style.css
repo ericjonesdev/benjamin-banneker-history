@@ -184,6 +184,10 @@ p {
     .section-timeline img p {
         align-items: center;
     }
+    .boxes .container {
+        display: block;
+        text-align: center;
+        width: 100%;
    
 }
 
