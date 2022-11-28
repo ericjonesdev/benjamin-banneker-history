@@ -272,6 +272,7 @@ footer {
     align-content: center;
     height: 520px;
     padding: 20px;
+    box-shadow: 5px 5px 5px #2f0f0f;
 }
 
 .signup-form input {
@@ -316,6 +317,7 @@ input.submit-button {
     border: 2px;
     border-color: #7D1D26;
     border-radius: 10px;
+    box-shadow: 5px 5px 5px #0c0c0c;
     
 }
 
