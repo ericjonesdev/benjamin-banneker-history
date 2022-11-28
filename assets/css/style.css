@@ -253,7 +253,7 @@ footer {
     display: flex;
     background-size: cover;
     background-position: center;
-    height: 800px;
+    height: 900px;
     justify-content: center;
 }
 
@@ -265,14 +265,14 @@ footer {
 }
 
 #form-text {
-    display: inline-flex;
-    background-color: #f1f1e6;
-    vertical-align: middle;
-    margin: 45px 0 15px;
-    align-content: center;
-    height: 520px;
-    padding: 20px;
-    box-shadow: 5px 5px 5px #2f0f0f;
+display: inline-table;
+background-color: #f1f1e6;
+vertical-align: top;
+margin: 140px 0 auto;
+align-content: center;
+height: 400px;
+padding: 20px;
+box-shadow: 5px 5px 5px #2f0f0f;
 }
 
 .signup-form input {
