@@ -190,6 +190,7 @@ Using a lazy load method for the iframe enabled a faster page load time accordin
 
 The navbar was styled for responsiveness according to this reference and with original edits:
 
+Title - Create a responsive navigation nav with no JS! by Kevin Powell
 https://youtu.be/8QKOaTYvYUA
 
 ## 5.2 Flexbox Tutorial
