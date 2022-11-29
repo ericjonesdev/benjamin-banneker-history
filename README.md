@@ -99,7 +99,7 @@ On mobile devices the form resizes to fit the appropriate area seamlessly.
 ## 2.7 The Footer Section
 The footer section included links to the relevant social media sites for Benjamin Banneker. The links will open to a new tab to allow easy navigation for the user.
 
-<img src="assets/images/Benjamin Bannaker_ footer.png">
+<img src="assets/images/Benjamin Bannaker_ footer1.png">
 
 ## 2.8 Future development
 Additional features (future)that are desired to be developed and implement are as follows:
@@ -184,7 +184,13 @@ This website was developed using an online version of VS code, via the gitpod/gi
 Title - How To Make iframe's Responsive
 https://youtu.be/X4t0JxiBeO0
 
-Using a lazy load method and associated thumbnail image enabled a faster page load time according to the <a href="https://pagespeed.web.de">PageSpeed</a> performance checker. 
+Eventually learning that my code did not have to be as elaborate as the example, the lazy load method was called within the iframe to circumvent bad page load times.
+
+Using a lazy load method for the iframe enabled a faster page load time according to the <a href="https://pagespeed.web.de">PageSpeed</a> performance checker. 
+
+The navbar was styled for responsiveness according to this reference and with original edits:
+
+https://youtu.be/8QKOaTYvYUA
 
 ## 5.2 Flexbox Tutorial
 
