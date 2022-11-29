@@ -71,12 +71,13 @@ The website was organized into three main pages which are the home, about, and c
 
 The About us section illustrates to the user the reasons behind the website creation and informs as to the nature of the site owners.
 
-<img src="assets/images/Benjamin Bannaker_ AboutUs.png">
+<img src="assets/images/Benjamin Bannaker_ AboutUs1.png">
+
 
 ## 2.3 Legendary section
 
 The Legendary section is used to illustrate some of the crowning achievements of Benjamin Banneker. This section should instill in the mind of the user exactly why this historical personage was so important to American history and, thereby, make plain why the site was created.
-<img src="assets/images/Benjamin Bannaker_ Legendary.png">
+<img src="assets/images/Benjamin Bannaker_ Legendary1.png">
 
 ## Additional Information (Video Section)
 
@@ -84,7 +85,7 @@ The last section before the site footer is the video section, which serves as a 
 
 This section, along with the Legendary section was styled to stack, one above the other, on smaller devices, principally mobile.
 
-<img src="assets/images/Benjamin Bannaker_ video.png">
+<img src="assets/images/Benjamin Bannaker_ video1.png">
 <img src="assets/images/Benjamin Bannaker_stacking.png" width="300px">
 
 ## 2.6 Contact Us Form Page
