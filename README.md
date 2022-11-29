@@ -85,8 +85,7 @@ The last section before the site footer is the video section, which serves as a 
 
 This section, along with the Legendary section was styled to stack, one above the other, on smaller devices, principally mobile.
 
-<img src="assets/images/Benjamin Bannaker_ video1.png">
-<img src="assets/images/Benjamin Bannaker_stacking.png" width="300px">
+<img src="assets/images/BenBanneker_videosection.png">
 
 ## 2.6 Contact Us Form Page
 
@@ -95,7 +94,7 @@ The contact us form shared the overal color rule schematic as all other pages of
 On mobile devices the form resizes to fit the appropriate area seamlessly. 
 
 <img src="assets/images/Benjamin Bannaker_ contactus.png">
-<img src="assets/images/Benjamin Bannaker_form.png" width="300px">
+<img src="assets/images/Benjamin Bannaker_ contactus1.png">
 
 ## 2.7 The Footer Section
 The footer section included links to the relevant social media sites for Benjamin Banneker. The links will open to a new tab to allow easy navigation for the user.
