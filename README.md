@@ -49,7 +49,7 @@ Where applicable, accessibility and useability regarding color schematics, seman
 
 The familiar colors red, white and blue were used due to the subject matter and his assistance in designing the American captial. The home decor color "rule" of 60%, 30%, and 10% was applied to the genre of web development, so as not to over-use one color while relying too heavily on another. 
 
-<img src="assets/images/color rule.png">
+<img src="assets/images/Benjamin Banneker_ homepage.png">
 
 The rule for color uses was as follows: 60% white tones, 30% blue, and 10% red tones.  This made for an eye-pleasing user experience. 
 
