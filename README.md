@@ -6,6 +6,8 @@
 
 Developer: Eric Nathaniel Jones
 # Table of Contents
+- [Benjamin Banneker](#benjamin-banneker)
+- [Table of Contents](#table-of-contents)
 - [1. Project Overview](#1-project-overview)
 	- [1.1 Project Objective](#11-project-objective)
 	- [1.2 User Stories](#12-user-stories)
@@ -14,7 +16,7 @@ Developer: Eric Nathaniel Jones
 		- [Site Owner](#site-owner)
 	- [1.3 Design](#13-design)
 - [2. Features](#2-features)
-	- [2.1 Header & Navbar](#21-header--navbar)
+	- [2.1 Header \& Navbar](#21-header--navbar)
 	- [2.2 About Us section](#22-about-us-section)
 	- [2.3 Legendary section](#23-legendary-section)
 	- [Additional Information (Video Section)](#additional-information-video-section)
@@ -143,6 +145,8 @@ Additional features (future)that are desired to be developed and implement are a
 ## 3.1 HTML Validation 
 
 All documents were validated using the free W3C Markup validation service. A majority of initial errors received pertained to Font Awsome element duplicate statements, received due to styling and re-styling elements and code clean-up errors. 
+
+Chrome development tools, as well as Firefox development tools where used to view each page and page behavior for functionality.
 
 ### Home Page
 <img src="assets/images/Index_html - Nu Html Checker.png">
