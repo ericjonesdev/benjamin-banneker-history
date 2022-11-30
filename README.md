@@ -5,8 +5,39 @@
 <img src="assets/images/Am I Responsive_ (1)_benjaminbanneker.png">
 
 Developer: Eric Nathaniel Jones
-
 # Table of Contents
+- [1. Project Overview](#1-project-overview)
+	- [1.1 Project Objective](#11-project-objective)
+	- [1.2 User Stories](#12-user-stories)
+		- [First time users](#first-time-users)
+		- [Returning users](#returning-users)
+		- [Site Owner](#site-owner)
+	- [1.3 Design](#13-design)
+- [2. Features](#2-features)
+	- [2.1 Header & Navbar](#21-header--navbar)
+	- [2.2 About Us section](#22-about-us-section)
+	- [2.3 Legendary section](#23-legendary-section)
+	- [Additional Information (Video Section)](#additional-information-video-section)
+	- [2.6 Contact Us Form Page](#26-contact-us-form-page)
+	- [2.7 The Footer Section](#27-the-footer-section)
+	- [2.8 Future development](#28-future-development)
+- [3. Testing](#3-testing)
+	- [3.1 HTML Validation](#31-html-validation)
+		- [Home Page](#home-page)
+		- [About Us Page](#about-us-page)
+		- [Contact Us Page](#contact-us-page)
+	- [3.2 CSS Validation](#32-css-validation)
+	- [Acessibility Validation Service](#acessibility-validation-service)
+	- [3.4 Lighthouse](#34-lighthouse)
+	- [3.5 Manual Testing User Stories](#35-manual-testing-user-stories)
+	- [3.6 Bugs and Fixes](#36-bugs-and-fixes)
+- [4. Deployment](#4-deployment)
+- [5. Credits](#5-credits)
+	- [5.1 Video Section Information](#51-video-section-information)
+	- [5.2 Flexbox Tutorial](#52-flexbox-tutorial)
+	- [5.3 Historial References](#53-historial-references)
+	- [5.4 Media](#54-media)
+
 
 # 1. Project Overview
 ## 1.1 Project Objective
