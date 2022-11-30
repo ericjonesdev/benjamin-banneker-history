@@ -194,10 +194,20 @@ nav a:hover {
     }
 }
 
+.image-responsive {
+    width: auto;
+    height: auto;
+    padding: 10px;
+    background-color: white;
+    border: 2px solid rgb(217, 129, 129);
+    border-radius: 10px;
+}
 
 img {
-    height: auto;
-    width: 100%;
+    display: block;
+    max-width: 100%;
+    border-radius: 10px;
+    
   }
 
   
