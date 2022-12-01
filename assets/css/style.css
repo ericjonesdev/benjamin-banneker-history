@@ -336,7 +336,7 @@ footer {
     
 }
 
-@media screen and (max-with: 400px) {
+@media screen and (max-width: 400px) {
     margin-right: 0 0 23%;
 }
 
