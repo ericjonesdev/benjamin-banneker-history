@@ -98,19 +98,19 @@ The website was organized into three main pages which are the home, about, and c
 ## 2.1 Header & Navbar
 The website was organized into three main pages which are the home, about, and contact page. Internal links were used on the home page to link to the various sections of that page, thereby creating a more efficient user experience. 
 
-<img src="assets/images/Benjamin Bannaker_ Navbar.png">
+<img src="assets/images/Benjamin Bannaker_ Navbar1.png">
 
 ## 2.2 About Us section
 
 The About us section illustrates to the user the reasons behind the website creation and informs as to the nature of the site owners.
 
-<img src="assets/images/Benjamin Bannaker_ AboutUs1.png">
+<img src="assets/images/Benjamin Bannaker_ AboutUs12.png">
 
 
 ## 2.3 Legendary section
 
 The Legendary section is used to illustrate some of the crowning achievements of Benjamin Banneker. This section should instill in the mind of the user exactly why this historical personage was so important to American history and, thereby, make plain why the site was created.
-<img src="assets/images/Benjamin Bannaker_ Legendary1.png">
+<img src="assets/images/Benjamin Bannaker_ Legendary2.png">
 
 ## Additional Information (Video Section)
 
