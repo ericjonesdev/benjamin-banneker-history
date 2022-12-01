@@ -337,7 +337,7 @@ footer {
 }
 
 @media screen and (max-with: 400px) {
-    margin-right: 23%;
+    margin-right: 0 0 23%;
 }
 
 .social-networks > li {
