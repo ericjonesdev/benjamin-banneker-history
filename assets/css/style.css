@@ -336,10 +336,6 @@ footer {
     
 }
 
-@media screen and (max-width: 400px) {
-    margin-right: 0 0 23%;
-}
-
 .social-networks > li {
     display: inline;
 }
