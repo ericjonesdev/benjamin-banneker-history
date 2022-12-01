@@ -2,7 +2,7 @@
 
 <a href="https://ericjonesdev.github.io/benjamin-banneker-history/index.html">Visit the live webpage</a>
 
-<img src="assets/images/Am I Responsive_ (1)_benjaminbanneker.png">
+<img src="assets/images/Am I Responsive_ (1)_benjaminbanneker1.png">
 
 Developer: Eric Nathaniel Jones
 # Table of Contents
